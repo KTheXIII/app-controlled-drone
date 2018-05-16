@@ -2,6 +2,8 @@
 This is a school project that we decided to make. This contain the android app, server and a client that's on the drone.
 In this project you'll need android studio, Python installed.
 
+To get started on the server and drone client go to [server_client](https://github.com/KTheXIII/app-controlled-drone/tree/master/server_client) map
+
 You can find the android app [here](https://github.com/Chasarr/DronePack).
 
 Note, this project is meant to be use for testing only.
