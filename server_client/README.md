@@ -11,7 +11,7 @@ Download this folder.
 
 ### Prerequisites
 
-What things you need to install the software
+What things you need to install to run the software
 
 #### Server
 To run the server you would need to install Python 3.6. This can be found at [python.org](https://www.python.org/).
