@@ -36,5 +36,23 @@ You can flash raspbian using [Etcher](https://etcher.io/) available on Mac, PC a
 #### Install the required software on Raspberry Pi
 If you haven't already follow the instruction on how to set Pixhawk and Raspberry Pi together then follow these instructions.
 
-First wire the Pixhawk and Raspberry Pi according to this diagram.
+1st wire the Pixhawk and Raspberry Pi according to this diagram.
+
 ![Wiring diagram between Pixhawk and Raspberry Pi](http://ardupilot.org/dev/_images/RaspberryPi_Pixhawk_wiring1.jpg)
+
+2nd open the terminal on the Raspberry Pi and run this command
+
+```
+sudo apt-get update
+```
+
+3rd you can just copy and paste this entire command
+
+```bash
+sudo apt-get update && \
+sudo apt-get install screen python-wxgtk2.8 python-matplotlib python-opencv python-pip python-numpy python-dev libxml2-dev libxslt-dev && \
+sudo pip install future && \
+sudo pip install pymavlink && \
+sudo pip install mavproxy && \
+sudo pip install dronekit
+```
