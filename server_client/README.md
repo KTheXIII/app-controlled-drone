@@ -49,7 +49,6 @@ sudo apt-get update
 3rd you can just copy and paste this entire command
 
 ```bash
-sudo apt-get update && \
 sudo apt-get install screen python-wxgtk2.8 python-matplotlib python-opencv python-pip python-numpy python-dev libxml2-dev libxslt-dev && \
 sudo pip install future && \
 sudo pip install pymavlink && \
