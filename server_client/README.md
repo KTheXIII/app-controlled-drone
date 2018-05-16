@@ -17,7 +17,10 @@ What things you need to install to run the software
 To run the server you would need to install Python 3.6. This can be found at [python.org](https://www.python.org/).
 
 #### Drone client
-For drone client you would need to follow these instructions
+The `drone_client.py` can be use with the Pixhawk flight contoller or in a simulated environment dronekit. 
+To use the `drone_client.py` with the Pixhawk followed [these](http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) guides on how to wire the Pixhawk with Raspberry Pi.
+
+To use the drone client you would need to follow these [instructions]().
 
 First install raspbian on Raspberry Pi. Found at [raspberrypi.org](https://www.raspberrypi.org/) in the downloads
 
