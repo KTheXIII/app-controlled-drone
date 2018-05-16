@@ -7,7 +7,9 @@ The whole project is dependent on dronekit.
 
 ## Getting Started
 
-Download this folder.
+To get started you need to download the repository and extract the zip file.
+
+You need to install something to run the server and the client. These instructions can be found below.
 
 ### Prerequisites
 
