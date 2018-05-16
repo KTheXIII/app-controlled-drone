@@ -19,8 +19,6 @@ To run the server you would need to install Python 3.6. This can be found at [py
 #### Drone client
 For drone client you would need to follow these instructions
 
-A step by step series of examples that tell you have to get a development env running
-
 First install raspbian on Raspberry Pi. Found at [raspberrypi.org](https://www.raspberrypi.org/) in the downloads
 
 #### Install Raspbian
