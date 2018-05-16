@@ -31,7 +31,7 @@ If you're already have raspbian installed you can skip this step.
 
 First you need to format your SD-card, you can use [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter_4/) or if you're on a Linux  you can follow [these](https://www.pcworld.com/article/3176712/linux/how-to-format-an-sd-card-in-linux.html) steps.  
 
-You can flash raspbian using [Etcher](https://etcher.io/) available on Mac, PC and Linux.
+You can flash raspbian using [Etcher](https://etcher.io/), available on Mac, PC and Linux.
 
 #### Install the required software on Raspberry Pi
 If you haven't already follow the instruction on how to set Pixhawk and Raspberry Pi together then follow these instructions.
